@@ -1,7 +1,7 @@
 {
   "name": "Wesley Martins-portfolio",
   "version": "0.1.0",
-  "homepage": "https://wesleybmartins124.github.io/Wesley-Portfolio/public/index.html",
+  "homepage": "https://wesleybmartins124.github.io/Wesley-Portfolio/",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.3",
