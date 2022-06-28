@@ -32,8 +32,7 @@
     "build": "react-scripts build",
     "format": "prettier --write .",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "publicar": "npm run build && ./node_modules/.bin/gh-pages -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": [
