@@ -1,7 +1,7 @@
 {
   "name": "Wesley Martins-portfolio",
   "version": "0.1.0",
- "homepage": "C:/Users/maitê/Awesomefolio",
+ "homepage": "./../../../",
   "private": "false",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
